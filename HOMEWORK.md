@@ -37,7 +37,7 @@ Collection:
 
 `changed: false`
 
-![Пункт 4](screenshots/04-module-local.png)
+<img width="1364" height="138" alt="Снимок экрана 2026-09-14 190608" src="https://github.com/user-attachments/assets/784a5c66-4330-4a71-b0a0-dbdec22fb500" />
 
 ## Проверка через playbook
 
@@ -53,7 +53,7 @@ Collection:
 
 ### Пункт 6 — проверка идемпотентности
 
-![Пункт 6](screenshots/06-playbook.png)
+<img width="1506" height="422" alt="Снимок экрана 2026-09-14 191023" src="https://github.com/user-attachments/assets/381d0384-3495-4ce5-a230-6cc9215e9a81" />
 
 ## Ansible Collection
 
@@ -79,7 +79,7 @@ Collection собрана в архив:
 
 Collection успешно установлена локально из `.tar.gz`.
 
-![Пункт 15](screenshots/15-collection-install.png)
+<img width="1022" height="109" alt="Снимок экрана 2026-09-14 193959" src="https://github.com/user-attachments/assets/888a987c-41b1-4c49-9711-87b3112587b8" />
 
 ### Пункт 16 — запуск playbook с установленной collection
 
@@ -93,4 +93,5 @@ Playbook успешно использует установленную collecti
 
 `changed=0`
 
-![Пункт 16](screenshots/16-collection-playbook.png)
+<img width="1491" height="393" alt="Снимок экрана 2026-09-14 194107" src="https://github.com/user-attachments/assets/5e382b38-c454-41d9-bbc4-da07fdd08cb6" />
+
