@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  author: TrashDokiDoki
+  description: Role using my own Ansible module to manage a text file
+  license: MIT
+  min_ansible_version: "2.17"
+
+dependencies: []

@@ -1,0 +1,31 @@
+---
+namespace: trashdokidoki
+name: yandex_cloud_elk
+version: 1.0.0
+
+readme: README.md
+
+authors:
+  - TrashDokiDoki
+
+description: >
+  Educational Ansible collection containing a custom module
+  and role for managing a text file.
+
+license:
+  - MIT
+
+tags:
+  - ansible
+  - netology
+  - module
+  - collection
+
+dependencies: {}
+
+repository: https://github.com/TrashDokiDoki/my_own_collection
+documentation: https://github.com/TrashDokiDoki/my_own_collection
+homepage: https://github.com/TrashDokiDoki/my_own_collection
+issues: https://github.com/TrashDokiDoki/my_own_collection/issues
+
+build_ignore: []
